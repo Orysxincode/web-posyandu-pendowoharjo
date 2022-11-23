@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/Orysxincode/web-posyandu-pendowoharjo/main/public/img/logo_posyandu.svg" width="400" alt="Logo Posyandu Pendowoharjo"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/Orysxincode/web-posyandu-pendowoharjo/main/public/img/logo_posyandu.svg?token=GHSAT0AAAAAAB3RHL63KBOLRSQ3AFMBTD3OY35YVCA" width="400" alt="Logo Posyandu Pendowoharjo"></a></p>
 
 ## Sistem Informasi Posyandu Pendowoharjo
 
